@@ -1,0 +1,66 @@
+###Links 
+https://www.educba.com/power-bi-vs-tableau/
+
+# Why power BI , Tableau
+=> they are callled Business Intelligence toool
+=> Because these tools will convert  raw data into meaningful information by showing us some visuals on dashboard
+which we can share with our end user, manager
+=>Power BI is business analytics solution that lets you visualize the data and share the insights to the concern stakeholders
+and the business owners
+
+Importance of Business Intelligence tool?
+ • KPI (Key Performance Indicators)
+• Process Benchmarking
+• Driving Sales
+• Business Problems
+
+
+# Agenda 
+• Business Intelligence (BI) Concepts
+• Microsoft Power BI (MSPBI) introduction
+• Connecting Power BI with Different Data sources
+• Power Query for Data Transformation. (It is very important)
+• Data Modelling In Power BI
+• Reports in Power BI
+• Reports & Visualization types in Power BI
+• Dashboards in Power BI
+• Data refresh in Power BI
+• Projects: End to End (Data Modelling & Visualization)
+• Interview Questions
+
+# In Dashboard of Power BI we have 3 parts
+1) Upper Ribbon (FIle, Home, Insert, modelling, View, Format, Data/Drill)
+2) White Dashboard (After loading any file in dashboard , here u can manipulate & visualize : report, data, model)
+3) Left Ribbon (Filters, Visualizations, Fields)
+
+# Power Query Editor(for data transfoemation)
+* It is a self service ETL tool for Power BI
+Note : after loading data (let say excels file of 3 sheet) u will get option of load, transform data, cancel
+       click on transform to get utilization of power query tool
+* here in power query editor we have history as applied steps, where we can undo our steps
+
+1)where u can delete the unnecessary row
+2) Add first row as your header of columns, there is one option in header ribbon of power query editor
+3) In Power query editor u will also have history at right (as applied steps) where u can undo your previous task
+
+# Different Visualization segment for different types of data
+* Histogram is good for visualization of -->distributed data (For eg distr. of each quality of mango in your garden)
+* Trend of your data is best shown -->line chart
+* composition analysis of data ---> (Donout, pie chart) for small variety
+* * composition analysis of data ---> (stack bar chart) for large variety
+
+* Relation--> scatter plot
+* Comparision of data ---> Bar Graph
+*Flat files eg: csv, excel, pdf, text etc
+
+# In dashboard of Power BI we have Transform data table(ie Power Query editor) where we will do table editings
+#In dashboard (report, data, model)
+* In model we have --> dimension/Refrence table (customer id, product name) and fact table (eg sales, qty)
+* In power Bi we have many relations one to many, many to many , many to one
+* Before connecting reference table to fact table we cannot create slicer
+
+DAX: Data Analytics Expressions 
+
+
+
+
